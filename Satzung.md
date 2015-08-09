@@ -49,7 +49,7 @@
 2. Auf Antrag kann vom Vorstand in zu begründenden Einzelfällen eine Beitragsermäßigung oder -stundung gewährt werden.
 3. Bei Beendigung der Mitgliedschaft besteht kein Anspruch auf Teilrückzahlung der Beiträge oder anderer Einlagen.
 
-## §5 Vereinsorgane
+## §6 Vereinsorgane
 
 Die Organe des Vereins sind:
 
