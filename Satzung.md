@@ -17,11 +17,11 @@
 
 ## §3 Gemeinnützigkeit
 
-1. Der Verein ist frei und unabhängig. Er verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+1. Der Verein ist frei und unabhängig. Er verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung (§§ 51ff) in der jeweils gültigen Fassung.
 2. Der Verein ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-3. Es darf keine Person durch Ausgaben, die dem Vereinszweck fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-4. Die Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden.
-5. Die Mitglieder erhalten keine Zuwendungen aus den Mitteln des Vereins.
+3. Die Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden.
+4. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Vereinszweck fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+5. Alle Inhaber von Vereinsämtern sind ehrenamtlich tätig.
 
 ## §4 Mitgliedschaft
 
