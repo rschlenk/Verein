@@ -56,28 +56,27 @@ Die Organe des Vereins sind:
 * die Mitgliederversammlung
 * der Vorstand
 
-## §6 Die Mitgliederversammlung
+## §7 Die Mitgliederversammlung
 
-1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt.
-2. Der Vorstand hat eine außerordentliche Mitgliederversammlung unverzüglich und unter genauer Angabe von Gründen einzuberufen, wenn es das Interesse des Vereins erfordert oder wenn mindestens 1/3 der Mitglieder dies schriftlich unter Angabe des Zwecks und der Gründe vom Vorstand verlangen.
-3. Zu jeder Mitgliederversammlung lädt der Vorstand die Mitglieder mindestens 21 Tage vor dem Versammlungstermin ein. Die Einladung erfolgt per E-Mail, Fax oder Brief - entsprechend dem Wunsch des Mitgliedes. Hat ein Mitglied dem Vorstand gegenüber keinen Wunsch geäußert, wird die Einladung per E-Mail verschickt.
-4. Ein Antrag an die Mitgliederversammlung gilt als fristgemäß eingereicht, wenn er eine Woche vor Beginn der Mitgliederversammlung beim Vorstand eingegangen ist.
+1. Die Mitgliederversammmlung ist das höchste Organ des Vereins. Ihre Beschlüsse sind für die Vorstandschaft bindend.
+2. Die ordentliche Mitgliederversammlung findet einmal jährlich statt.
+2. Der Vorstand hat eine außerordentliche Mitgliederversammlung unverzüglich und unter genauer Angabe von Gründen einzuberufen, wenn es das Interesse des Vereins erfordert oder wenn mindestens ein Drittel der Mitglieder dies schriftlich unter Angabe des Zwecks und der Gründe vom Vorstand verlangen.
+3. Zu jeder Mitgliederversammlung lädt der Vorstand die Mitglieder mindestens 21 Tage vor dem Versammlungstermin ein. Die Einladung erfolgt per E-Mail oder Brief - entsprechend dem Wunsch des Mitgliedes. Hat ein Mitglied dem Vorstand gegenüber keinen Wunsch geäußert, wird die Einladung per E-Mail verschickt.
+4. Ein Antrag an die Mitgliederversammlung gilt als fristgemäß eingereicht, wenn er sieben Tage vor Beginn der Mitgliederversammlung beim Vorstand eingegangen ist.
 5. Die Leitung der Versammlung hat ein Mitglied des Vorstands oder ein von der Mitgliederversammlung bestimmter Versammlungsleiter.
-6. Die Beschlüsse der Mitgliederversammlung werden in einem Protokoll niedergelegt und auf der Webseite des Vereins publiziert.
+6. Die Beschlüsse der Mitgliederversammlung werden in einem Protokoll niedergelegt, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist. Es wird auf der Webseite des Vereins publiziert.
 7. Der Mitgliederversammlung obliegen:
-  1. die Beschlussfassung über alle den Verein betreffenden Angelegenheiten von grundsätzlicher Bedeutung,
-  2. die Entscheidung über fristgemäß eingebrachte Anträge,
-  3. die Entgegennahme des Jahresberichtes des Vorstands,
-  4. die Entlastung des Vorstands,
-  5. die Festlegung eines Wahlverfahrens für die Vorstandswahl,
-  6. die Wahl der Vorstandsmitglieder,
-  7. die Beschlussfassung über Satzungsänderungen (wobei eine Änderung des Zweckes des Vereins oder der diesbezüglichen Satzungsbestimmungen lediglich unter Beachtung der Vorschriften gemäß §3, Gemeinnützigkeit, möglich ist),
-7.8. die Festsetzung der Mitgliedsbeiträge,
-7.9. die Auflösung des Vereins gemäß §9 Ziffer 1 und 2 dieser Satzung.
-8. Der Vorstand hat zusätzlich unverzüglich eine Mitgliederversammlung einzuberufen, wenn mindestens 25% der Vereinsmitglieder die Einberufung schriftlich fordern.
-9. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht.
-10. Stimmberechtigt ist jedes anwesende Mitglied dessen Mitgliedschaft nicht ruht.
-11. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit.
+  1. die Beschlussfassung über alle den Verein betreffenden Angelegenheiten von grundsätzlicher Bedeutung
+  2. die Entscheidung über fristgemäß eingebrachte Anträge
+  3. die Entgegennahme des Jahresberichtes des Vorstands und dessen Entlastung
+  4. die Entgegennahme des Berichts der Kassenprüfer/innen, Genehmigung des Kassenberichts und des Haushaltsplans für das kommende Geschäftsjahr
+  5. die Festlegung eines Wahlverfahrens für die Vorstandswahl
+  6. die Wahl und Abberufung der Vorstandsmitglieder und von Kassenprüfern
+  7. die Festsetzung des Mitgliedsbeitrags
+  8. die Beschlussfassung über Satzungsänderungen (wobei eine Änderung des Zweckes des Vereins oder der diesbezüglichen Satzungsbestimmungen lediglich unter Beachtung der Vorschriften gemäß §3, Gemeinnützigkeit, möglich ist)
+  9. die Auflösung des Vereins gemäß §10 Ziffer 1 und 2 dieser Satzung
+8. Die Mitgliederversammlung ist beschlussfähig, wenn sie satzungsgemäß einberufen wurde. Jedes stimmberechtigte Vereinsmitglied hat das gleiche Stimmgewicht. Stimmberechtigt ist jedes anwesende aktive Mitglied dessen Mitgliedschaft nicht ruht.
+11. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit. Beschlüsse, durch die die Satzung geändert wird, bedürfen einer Mehrheit von zwei Drittel der erschienenen stimmberechtigten Mitglieder.
 12. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.
 
 ## §7 Der Vorstand
