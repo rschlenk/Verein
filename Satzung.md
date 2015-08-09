@@ -6,16 +6,14 @@
 2. Sitz des Vereins ist Nürnberg.
 3. Geschäftsjahr des Vereins ist das Kalenderjahr.
 
-## §2 Zweck des Vereins und Zweckverwirklichung
+## §2 Vereinszweck
 
 1. Zweck des Vereins ist die Erforschung, Anwendung und Verbreitung freier Netzwerktechnologien sowie die Verbreitung und Vermittlung von Wissen über Funk und Netzwerktechnologien.
 2. Weiterhin fördert der Verein ideell, materiell und/oder finanziell:
   1. den Zugang zur Informationstechnologie für sozial benachteiligte Personen
-  2. die Schaffung experimenteller Kommunikations- und Infrastrukturen sowie Bürgerdatennetzen.
-  3. Kulturelle, technologische und soziale Bildungs- und Forschungsobjekte
+  2. die Schaffung experimenteller Kommunikations- und Infrastrukturen sowie Bürgerdatennetzen
+  3. kulturelle, technologische und soziale Bildungs- und Forschungsobjekte
   4. die Veranstaltung regionaler, nationaler und internationaler Kongresse, Treffen und Konferenzen, sowie die Teilnahme der Mitglieder.
-3. Ausscheidende Mitglieder haben keinen Anspruch auf das Vereinsvermögen.
-4. Über die Auflösung des Vereines entscheidet eine Mitgliederversammlung, die eigens zu diesem Zweck einberufen wird. Die Auflösung gilt bei einer Neunzehntel Mehrheit als beschlossen.
 
 ## §3 Gemeinnützigkeit
 
