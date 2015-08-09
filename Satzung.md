@@ -26,17 +26,28 @@
 ## §4 Mitgliedschaft
 
 1. Mitglied des Vereins kann jede natürliche oder juristische Person werden. Bei Minderjährigen ist die Zustimmung des gesetzlichen Vertreters erforderlich.
-2. Die Beitrittserklärung erfolgt schriftlich, auch in elektronischer Form, an den Vorstand zu richten, der über die Aufnahme des Antragstellers entscheidet. Gegen die Entscheidung kann die Mitgliederversammlung angerufen werden.
-3. Der Beitritt gilt erst dann als vollzogen, wenn der Mitgliedsbeitrag entrichtet worden ist.
-4. Alle Mitglieder haben das Recht, an der Mitgliederversammlung des Vereins teilzunehmen, Anträge zu stellen, und ihr Rede-, Wahl und Stimmrecht gemäß §4 (5) auszuüben. Juristische Personen üben ihre Rechte durch einen bevollmächtigten Vertreter aus, der dem Vorstand benannt sein muss.
-5. Wahl- und Stimmrecht besitzen nur Mitglieder, die natürliche Personen sind. Das aktive Wahlrecht besitzen alle Mitglieder, die natürliche Personen sind. Das passive Wahlrecht besitzen nur Mitglieder, die natürliche Personen sind, ab dem vollendeten 14. Lebensjahr.
-6. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es den Verein oder das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nicht nachkommt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren. Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
-7. Die Mitgliedschaft endet durch Austrittserklärung nach 3 Monaten, durch Tod von natürlichen Personen oder durch Auflösung und Erlöschung von juristischen Personen oder durch Ausschluss; die Beitragspflicht für das laufende Geschäftsjahr bleibt hiervon unberührt.
-8. Der Ausschluss erfolgt durch den Vorstand. Der Ausgeschlossene kann innerhalb eines Monats nach Zugang des Beschlusses Einspruch einlegen und die nächste Mitgliederversammlung anrufen, von der die Gültigkeit des Ausschlusses mit Dreiviertelmehrheit der anwesenden Mitglieder bestätigt oder der Ausschluss rückgängig gemacht werden kann. Vom Zeitpunkt des Einspruchs bis zur Entscheidung über den Ausschluss besteht die Mitgliedschaft weiter.
-9. Die Austrittserklärung erfordert die Schriftform gegenüber dem Vorstand und muss mit einer Frist von 6 Wochen zum Ende des Geschäftshalbjahres eingereicht werden. Auf Wunsch des Mitglieds kann die Wirksamkeit auch mit sofortiger Wirkung eintreten.
+2. Der Verein besteht aus ordentlichen Mitgliedern und Fördermitgliedern sowie aus Ehrenmitgliedern. Fördermitglieder sind Mitglieder, die sich zwar nicht aktiv innerhalb des Vereins betätigen, jedoch die Ziele und auch den Zweck des Vereins in geeigneter Weise fördern und unterstützen.
+3. Zum Ehrenmitglied werden Mitglieder ernannt, die sich in besonderer Weise um den Verein verdient gemacht haben. Hierfür ist ein Beschluss der Mitgliederversammlung erforderlich. Ehrenmitglieder sind von der Beitragszahlung befreit, sie haben jedoch die gleichen Rechte und Pflichten wie ordentliche Mitglieder und können insbesondere an sämtlichen Versammlungen und Sitzungen teilnehmen. 
+4. Die Beitrittserklärung ist schriftlich, auch in elektronischer Form, an den Vorstand zu richten, der über die Aufnahme des Antragstellers entscheidet. Bei Ablehnung entscheidet auf Einspruch des Bewerbers die Mitgliederversammlung.
+5. Der Beitritt gilt erst dann als vollzogen, wenn der Mitgliedsbeitrag entrichtet worden ist.
+6. Mit ihrem Beitritt erkennen Mitglieder die Satzung des Vereins an.
+7. Alle Mitglieder haben das Recht, an der Mitgliederversammlung des Vereins teilzunehmen, Anträge zu stellen, und ihr Rede-, Wahl und Stimmrecht gemäß §4 (8) auszuüben. Juristische Personen üben ihre Rechte durch einen bevollmächtigten Vertreter aus, der dem Vorstand benannt sein muss.
+8. Wahl- und Stimmrecht besitzen ordentliche Mitglieder und Ehrenmitglieder. Das passive Wahlrecht besitzen nur Mitglieder, die natürliche Personen sind, ab dem vollendeten 14. Lebensjahr.
+9. Die Mitgliedschaft endet
+  * bei natürlichen Personen mit deren Tod
+  * bei juristischen Personen mit deren Auflösung
+  * nach schriftlicher Austrittserklärung eines Mitglieds zum Ende des Mitgliedschaftszeitraums nach §4 (11)
+  * mit dem Ausschluss.
 10. Im Falle nicht fristgerechter Entrichtung des Mitgliedsbeitrags ruht die Mitgliedschaft.
-11. Rechte und Pflichten der Mitglieder: Die Mitglieder haben die Beitragsordnung und alle im Rahmen der Mitgliederversammlung oder vom Vorstand beschlossenen Zusatzvereinbarungen einzuhalten. Mitglieder sind berechtigt Räumlichkeiten und Ressourcen des Vereins innerhalb der beschlossenen Regelungen zu nutzen.
-12. Der Vorstand kann der Mitgliederversammlung die Ernennung von Ehrenmitgliedern vorschlagen. Ehrenmitglieder sind von Beitragszahlungen freigestellt und haben auf Mitgliederversammlungen volles Stimmrecht.
+11. Der Austritt muss durch schriftliche Mitteilung an den Vorstand erklärt werden. Er wird mit Endes des Geschäftsjahrs wirksam und muss sechs Wochen vor dessen Ablauf mitgeteilt worden sein. Auf Wunsch des Mitglieds kann die Wirksamkeit auch mit sofortiger Wirkung eintreten.
+12. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es den Verein oder das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nicht nachkommt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren. Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
+13. Die finanziellen Verpflichtungen des Mitglieds gegenüber dem Verein bleiben vom Erlöschen der Mitgliedschaft unberührt.
+
+## §5 Mitgliedsbeiträge
+
+1. Der Verein kann einen Mitgliedsbeitrag erheben, zu dessen Zahlung die Mitglieder verpflichtet sind. Näheres regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird.
+2. Auf Antrag kann vom Vorstand in zu begründenden Einzelfällen eine Beitragsermäßigung oder -stundung gewährt werden.
+3. Bei Beendigung der Mitgliedschaft besteht kein Anspruch auf Teilrückzahlung der Beiträge oder anderer Einlagen.
 
 ## §5 Vereinsorgane
 
