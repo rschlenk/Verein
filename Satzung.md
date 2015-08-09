@@ -79,26 +79,24 @@ Die Organe des Vereins sind:
 11. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit. Beschlüsse, durch die die Satzung geändert wird, bedürfen einer Mehrheit von zwei Drittel der erschienenen stimmberechtigten Mitglieder.
 12. Abstimmungen müssen geheim erfolgen, wenn mindestens ein Mitglied dies fordert.
 
-## §7 Der Vorstand
+## §8 Die Vorstandschaft
 
-1. Der Vorstand wird von der Mitgliederversammlung gewählt und bleibt bis zur Amtsübernahme durch seinen Nachfolger im Amt.
+1. Der Vorstand wird auf der ordentlichen Mitgliederversammlung gewählt und bleibt bis zur Amtsübernahme durch seinen Nachfolger im Amt. Zuwahl von Vorstandsmitgliedern ist auch auf außerordentlichen Mitgliederversammlungen möglich.
 2. Der Vorstand des Vereins besteht aus mindestens drei Personen:
   * dem/der 1. Vorsitzenden
   * dem/der 2. Vorsitzenden
-  * dem/der SchatzmeisterIn.
-3. Der/die 1. Vorsitzende, der/die 2. Vorsitzende und der/die SchatzmeisterIn sind Vorstand im Sinne des § 26 des Bürgerlichen Gesetzbuches. Jeder von ihnen vertritt allein den Verein gerichtlich und außergerichtlich.
-4. Die Mitgliederversammlung kann weitere Vorstandsmitglieder bestimmen. Die Gesamtgröße des Vorstands ist vor der Wahl festzulegen und darf nicht durch zwei teilbar sein; ein Vorstand mit 42 Mitgliedern ist zulässig.
-5. Der Vorstand wird auf die Dauer von jeweils zwei Jahren gewählt. Nach Ablauf dieser Zeit bleibt er bis zur Wahl eines neues Vorstands kommissarisch im Amt.
-6. Scheidet ein Vorstandsmitglied während der Amtszeit aus, so haben die übrigen Vorstandsmitglieder eine Ergänzung herbeizuführen, die der Bestätigung durch die nächste Mitgliederversammlung bedarf.
-7. Dem Vorstand obliegen die laufende Geschäftsführung, die Ausführung der Beschlüsse der Mitgliederversammlung und die Verwaltung des Vereinsvermögens. Die Vorstandsmitglieder üben ihr Amt ehrenamtlich aus.
-8. Der Vorstand gibt sich eine Geschäftsordnung, die seine Verfahren und Aufgabenverteilung festlegt.
-9. Der Vorstand kann zur Unterstützung und Wahrnehmung seiner Aufgaben Vereinsmitglieder berufen, die entweder auf Dauer oder nur zur Erfüllung einer zeitlich begrenzten Tätigkeit Funktionen übernehmen.
-10. Der Vorstand tagt mindestens einmal halbjährlich. Jedes Mitglied hat das Recht, an den Sitzungen des Vorstands teilzunehmen. Die Ergebnisse der Sitzungen sind zu dokumentieren und zeitnah zu veröffentlichen.
-11. Jedes Vorstandsmitglied ist allein vertretungsberechtigt.
-
-## §8 Mitgliedsbeiträge
-
-1. Für die Regelung der Beiträge beschließt die Mitgliederversammlung eine Beitragsordnung.
+  * dem/der Kassenführer/in
+3. Der/die 1. Vorsitzende, der/die 2. Vorsitzende und der/die Kassenführer/in sind Vorstand im Sinne des § 26 des Bürgerlichen Gesetzbuches. Jeder von ihnen vertritt allein den Verein gerichtlich und außergerichtlich.
+4. Jedes Vorstandsmitglied ist allein vertretungsberechtigt.
+5. Die Vorstandschaft wird von der Haftung für einfache Fahrlässigkeit durch den Verein entbunden bzw. freigestellt.
+6. Die Mitgliederversammlung kann weitere Vorstandsmitglieder bestimmen. Die Gesamtgröße des Vorstands ist vor der Wahl festzulegen und darf nicht durch zwei teilbar sein; ein Vorstand mit 42 Mitgliedern ist zulässig.
+7. Der Vorstand wird auf die Dauer von jeweils zwei Jahren gewählt. Nach Ablauf dieser Zeit bleibt er bis zur Wahl eines neues Vorstands kommissarisch im Amt.
+8. Scheidet ein Vorstandsmitglied während der Amtszeit aus, so haben die übrigen Vorstandsmitglieder eine Ergänzung herbeizuführen, die der Bestätigung durch die nächste Mitgliederversammlung bedarf.
+9. Dem Vorstand obliegen die laufende Geschäftsführung, die Ausführung der Beschlüsse der Mitgliederversammlung und die Verwaltung des Vereinsvermögens. Die Vorstandsmitglieder üben ihr Amt ehrenamtlich aus.
+10. Der Vorstand gibt sich eine Geschäftsordnung, die seine Verfahren und Aufgabenverteilung festlegt.
+11. Der Vorstand kann zur Unterstützung und Wahrnehmung seiner Aufgaben Vereinsmitglieder als Beiräte berufen, die entweder auf Dauer oder nur zur Erfüllung einer zeitlich begrenzten Tätigkeit Funktionen übernehmen.
+12. Der Vorstand tagt mindestens einmal halbjährlich. Jedes Mitglied hat das Recht, an den Sitzungen des Vorstands teilzunehmen. Die Ergebnisse der Sitzungen sind zu dokumentieren und zeitnah zu veröffentlichen.
+13. Die Vorstandsitzung ist beschlussfähig, wenn mindestens zwei Mitglieder der Vorstandschaft anwesend sind. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. 
 
 ## §9 Satzungsänderungen und Auflösung des Vereins
 
