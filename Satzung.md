@@ -98,8 +98,8 @@ Die Organe des Vereins sind:
 12. Der Vorstand tagt mindestens einmal halbjährlich. Jedes Mitglied hat das Recht, an den Sitzungen des Vorstands teilzunehmen. Die Ergebnisse der Sitzungen sind zu dokumentieren und zeitnah zu veröffentlichen.
 13. Die Vorstandsitzung ist beschlussfähig, wenn mindestens zwei Mitglieder der Vorstandschaft anwesend sind. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. 
 
-## §9 Satzungsänderungen und Auflösung des Vereins
+## §9 Auflösung des Vereins
 
-1. Über die Auflösung des Vereines entscheidet eine Mitgliederversammlung, die eigens zu diesem Zweck einberufen wird. Die Auflösung gilt als beschlossen wenn 75 von 100 der abgegebenen Stimmen dafür stimmen. 
+1. Über die Auflösung des Vereines entscheidet eine Mitgliederversammlung, die eigens zu diesem Zweck einberufen wird. Die Auflösung gilt als beschlossen, wenn drei Viertel der abgegebenen Stimmen dafür stimmen. 
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den Förderverein Freie Netze e.V. oder an eine andere steuerbegünstigte Körperschaft oder Körperschaft öffentlichen Rechts, welche es unmittelbar für gemeinnützige Zwecke verwenden muss.
-3. Über Satzungsänderungen und die Änderung des Vereinszwecks entscheidet die Mitgliederversammlung. Vorschläge zu Satzungsänderungen, Zweckänderungen und zur Auflösung sind dem Vorstand bis spätestens zwei Wochen vor der Sitzung der Mitgliederversammlung zuzuleiten. Für die Beschlussfassung ist eine Mehrheit von drei Vierteln der anwesenden Stimmberechtigten erforderlich.
+
