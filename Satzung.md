@@ -1,10 +1,10 @@
 # Satzung des Freifunk Franken e.V.
 
-## §1 Name, Sitz, Eintragung, Geschäftsjahr
+## §1 Name, Sitz, Geschäftsjahr
 
-1. Der Verein trägt den Namen Freifunk Franken e.V.
-2. Er hat seinen Sitz in Nürnberg.
-3. Geschäftsjahr ist das Kalenderjahr.
+1. Der Verein trägt den Namen "Freifunk Franken e.V."
+2. Sitz des Vereins ist Nürnberg.
+3. Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 ## §2 Zweck des Vereins und Zweckverwirklichung
 
